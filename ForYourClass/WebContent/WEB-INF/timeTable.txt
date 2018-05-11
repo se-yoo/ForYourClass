@@ -1,0 +1,7 @@
+﻿영어	WPG	WPG	정보보호	DBP
+국어	창체	WPG	정보보호	DBP
+NCP	웹사이트제작	NMT	국어	웹사이트제작
+NCP	웹사이트제작	NMT	영어	웹사이트제작
+DBP	NCP	DBP	WPG	영어
+DBP	NCP	자치활동	NMT	정보보호
+체육	영어	멘토링	NMT	창체
